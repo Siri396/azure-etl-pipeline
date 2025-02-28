@@ -1,0 +1,1 @@
+Craete table employees(employeeID Int primary key, name nvarchar(100), Age int, Department nvarchar(50));
